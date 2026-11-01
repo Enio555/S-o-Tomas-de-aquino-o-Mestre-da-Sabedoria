@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SaoTomasDeAquino" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/gold_aged</item>
+        <item name="colorPrimaryVariant">@color/brown_dark</item>
+        <item name="colorOnPrimary">@color/ink_black</item>
+        <item name="android:windowBackground">@color/ink_black</item>
+        <item name="android:statusBarColor">@color/ink_black</item>
+    </style>
+</resources>

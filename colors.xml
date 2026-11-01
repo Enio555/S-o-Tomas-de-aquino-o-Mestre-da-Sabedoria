@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="parchment_light">#F6EEDB</color>
+    <color name="parchment_mid">#EADBC0</color>
+    <color name="gold_aged">#C59B27</color>
+    <color name="brown_dark">#23170E</color>
+    <color name="ink_black">#160F09</color>
+    <color name="ic_launcher_background">#23170E</color>
+</resources>
